@@ -1,7 +1,7 @@
 #ifndef _PN544_LGE_HWADAPTER_H_
 #define _PN544_LGE_HWADAPTER_H_
 
-#include <linux/nfc/pn544_lge.h>
+#include <linux/pn544_lge.h>
 
 #include <linux/of_gpio.h>
 
